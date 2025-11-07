@@ -50,7 +50,7 @@
                 exposure="1">
   </model-viewer>
 
-  <p>📱 Open this page on your phone and tap “View in your space” to see the cone in AR.</p>
+  <p> Open this page on your phone and tap “View in your space” to see the cone in AR.</p>
 </body>
 </html>
 
